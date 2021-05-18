@@ -7,4 +7,6 @@ You will earn points based on how well you play.
 
 After starting the game, the computer will prompt you to enter the intended cell (A3, D7, etc.)
 
+For a start, launch DotComBust
+
 Good luck)
